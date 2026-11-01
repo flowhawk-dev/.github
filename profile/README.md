@@ -1,7 +1,7 @@
 <a href="https://flowhawk.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="wordmark-dark.svg">
-    <img src="wordmark-light.svg" alt="Flowhawk" height="40">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flowhawk-dev/.github/main/profile/wordmark-dark.svg">
+    <img src="https://raw.githubusercontent.com/flowhawk-dev/.github/main/profile/wordmark-light.svg" alt="Flowhawk" height="40">
   </picture>
 </a>
 
